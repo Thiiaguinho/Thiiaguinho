@@ -43,7 +43,7 @@ Our role was to design and develop high-conversion landing pages and websites fo
 
 ### 2018 ~ 2021
 
-Between 2018 and 2020, I led a project focused on developing advanced bots for online games. The initiative aimed to automate repetitive tasks and optimize in-game strategies by leveraging intelligent automation. Designed with robust anti-detection measures, these bots enhanced gameplay by reliably executing predefined actions while minimizing the risk of triggering security protocols in dynamic gaming environments.
+Between 2018 and 2021, I led a project focused on developing advanced bots for online games. The initiative aimed to automate repetitive tasks and optimize in-game strategies by leveraging intelligent automation. Designed with robust anti-detection measures, these bots enhanced gameplay by reliably executing predefined actions while minimizing the risk of triggering security protocols in dynamic gaming environments.
 
 ---
 
