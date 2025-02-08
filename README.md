@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Thiago Messias! 👋
 
-<!--
-**Thiiaguinho/Thiiaguinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Full Stack Developer** with a strong focus on TypeScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- ![JavaScript](images/javascript-plain.svg)
+- ![TypeScript](images/typescript-plain.svg)
+- ![React](images/react-original.svg)
+- ![HTML5](images/html5-original.svg)
+- ![CSS3](images/css3-original.svg)
+- ![Tailwind CSS](images/tailwindcss.svg)
+- ![Next.js](images/nextjs.svg)
+
+---
+
+## My Work
+
+![GitLab Activity Status](images/gitlab-status.png)
+
+**Role:** Senior Frontend Developer  
+**Technologies:** React, TypeScript
+
+![Bitbucket Activity Status](images/bitbucket-status.png)
+
+**Role:** Senior Full Stack Developer & Team Leader (Team of 5 Developers)  
+**Technologies:** React, TypeScript, Next.js
+
+---
+
+## Personal Projects
+
+I've also developed a [VS Code extension](https://github.com/Thiiaguinho/vscode-prompt-master) that I'm particularly proud of.
